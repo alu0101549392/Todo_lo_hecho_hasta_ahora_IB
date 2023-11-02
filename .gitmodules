@@ -1,0 +1,6 @@
+[submodule "JUTGE"]
+	path = JUTGE
+	url = ./JUTGE/.git
+[submodule "Practica_5_IB"]
+	path = Practica_5_IB
+	url = ./Practica_5_IB/.git
